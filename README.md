@@ -1,1 +1,1 @@
-# easy_tradier
+# easy-tradier
